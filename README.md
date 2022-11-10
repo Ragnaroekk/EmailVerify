@@ -63,6 +63,7 @@ email address. A code will be sent to the email which will grant the verified ro
 Use this link to invite the bot to your server:
 
 https://discord.com/api/oauth2/authorize?client_id=895056197789564969&permissions=268504128&scope=bot%20applications.commands
+https://discord.com/api/oauth2/authorize?client_id=1040104716937469993&permissions=268504128&scope=bot
 
 ### Commands
 
