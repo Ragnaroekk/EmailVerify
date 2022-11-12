@@ -116,7 +116,7 @@ To add more languages please create an issue with the translation file. [Templat
 To install the bot execute following commands:
 ### Download the Bot
 ```
-git clone https://github.com/lkaesberg/EmailVerify.git
+git clone [https://github.com/lkaesberg/EmailVerify.git](https://github.com/Ragnaroekk/EmailVerify.git)
 cd emailverify
 ```
 ### Create Config File
